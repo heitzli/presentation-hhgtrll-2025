@@ -1,4 +1,7 @@
-# MCP Demo Server and Client
+# Hitchhiker's Guide To Running LLMs Locally
+![title-image](https://github.com/user-attachments/assets/aeaaf95d-c00e-435c-99d8-fd7fbcdaa599)
+Generated with: [ChatGPT Image Generator](https://openai.com/index/introducing-4o-image-generation/)
+
 
 ## Prerequisites
 
